@@ -1,0 +1,865 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of excellent and rare books, to be sold by way of auction the 24th. day of July. Which was the library of the late Lord Dirltoun sometime Advocate to His Majesty deceased. The books are to be seen four dayes before the auction being at the place where they are to be sold, to wit, at Pircairlie's Stone Land at the Cross, third door of the turnpyke on the right-hand. The catalogues are to be had at Mr. Charles Lumisden's shop in the Locken-Booths, the time of the sale, is only in the afternoon, and begins at two, and ends at six; and will continue every day in the week until the books be sold off.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02700</idno>
+            <idno type="STC">Wing D1556</idno>
+            <idno type="STC">ESTC R171775</idno>
+            <idno type="EEBO-CITATION">52211810</idno>
+            <idno type="OCLC">ocm 52211810</idno>
+            <idno type="VID">175659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175659)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2745:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of excellent and rare books, to be sold by way of auction the 24th. day of July. Which was the library of the late Lord Dirltoun sometime Advocate to His Majesty deceased. The books are to be seen four dayes before the auction being at the place where they are to be sold, to wit, at Pircairlie's Stone Land at the Cross, third door of the turnpyke on the right-hand. The catalogues are to be had at Mr. Charles Lumisden's shop in the Locken-Booths, the time of the sale, is only in the afternoon, and begins at two, and ends at six; and will continue every day in the week until the books be sold off.</title>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Mosman at his printing house in Harts-Closs over against the Trone-Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Domini 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf contains t.p., conditions of sale, and advertisement.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dirleton, John Nisbet, --  Lord, 1609?-1687 --  Library --  Catalogs --  Early works to 1800.</term>
+               <term>Catalogs, Booksellers' --  Scotland --  Edinburgh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175659:1" rendition="simple:additions"/>
+            <pb facs="tcp:175659:1"/>
+            <pb facs="tcp:175659:2"/>
+            <pb facs="tcp:175659:2"/>
+            <pb facs="tcp:175659:3"/>
+            <pb facs="tcp:175659:3"/>
+            <p>A CATALOGUE Of Excellent and Rare BOOKS, To be Sold by way of AUCTION the 24th. day of <hi>July.</hi> Which was the Library of the late Lord <hi>Dirltoun</hi> ſometime Ad<g ref="char:EOLhyphen"/>vocate to His Majeſty Deceaſed. The BOOKS are to be ſeen Four dayes before the <hi>Auction</hi> being at the Place where they are to be Sold, <hi>to wit,</hi> at <hi>Pitcairlie</hi>'s Stone Land at the <hi>Croſs,</hi> third Door of the Turn<g ref="char:EOLhyphen"/>pyke on the Right-hand. The Catalogues are to be had at Mr. <hi>Charles Lumiſden</hi>'s Shop in the <hi>Locken-Booths,</hi> The time of the Sale, is only in the Afternoon, and begins at Two, and ends at Six; and will continue every day in the Week until the Books be Sold off.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>George Moſman</hi> at his Printing houſe in <hi>Harts-Cloſs</hi> over againſt the <hi>Trone-Church,</hi> Anno Domini 1690.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:175659:4"/>
+            <head>The CONDITIONS of the Sale are theſe.</head>
+            <p n="1">1. <hi>He who bids moſt is the Buyer.</hi>
+            </p>
+            <p n="2">2. <hi>If any difference ariſe which the Company cannot decide, the Books ſhall be forthwith Expoſed to Sale again.</hi>
+            </p>
+            <p n="3">3. <hi>He who payes not preſently, is to give Earneſt Money to ſecure the Books for him, against he call for them.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>WHat Books ſhall happen to be unſold at the <hi>Auction,</hi> are to be had at the place aforeſaid at any hour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_books">
+            <pb n="1" facs="tcp:175659:4"/>
+            <head>A CATALOGUE OF LATINE BOOKS In FOLIO.</head>
+            <list>
+               <head>A.</head>
+               <item>1 ARnoldi (de Keyger J.A.) Theſauri Juris Locu<g ref="char:EOLhyphen"/>pletiſſimi in 2 Tom. <hi>Lipſiae</hi> 1667</item>
+               <item>2 Auguſtini (Hippon <hi>&amp;c.</hi>) Opera omnia in 10 Tom. <hi>Par.</hi> 1614</item>
+               <item>3 Ambroſii (Mediolanenſis) Opera omnia quae extant 2 vol 1616</item>
+               <item>4 Aquinatis (Tho.) ſumma contra Gentiles. <hi>Lugd.</hi> 1586</item>
+               <item>5 — Summa Theologiae. <hi>Pariſiis</hi> 1639</item>
+               <item>6 Auguſtini (Eugubini) de Philoſophia perenni Lib. 10. <hi>Lugd.</hi> 1540</item>
+               <item>7 Alexandri (Tartagnini J C) Conciliorum <hi>Francof.</hi> 1575</item>
+               <item>8 Antonius de Republica Eccleſiaſtica lib. 10 in 1 vol <hi>Heid.</hi> 1618</item>
+               <item>9 Agrippa (Cornelii) de Occulta Philoſophia lib 3 in 1 vol. 1533</item>
+               <item>10 A. B. Imola (Joannis) Comment. in 3 Decretalium <hi>Venetii</hi> 157</item>
+               <item>11 Antonii (de Gamma J.C.) Deciſionum Luſitaniae Cent. 4 1622</item>
+               <item>12 Azonis (J. C.) Summa Auraea in Lib. Codicis, <hi>&amp;c. Lugd.</hi> 1550</item>
+               <item>13 Alcoran Mahumetis cum Confutatione ejus <hi>&amp;c.</hi> Graeco Lat.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>14 Bodius in Epiſtolam ad Epheſios <hi>Lond.</hi> 1652</item>
+               <item>15 Beſoldi (J. C.) Theſaurus practicus. <hi>Nurimberge</hi> 1666</item>
+               <item>16 Bernardi (Divi) Opera Omnia. <hi>Baſiliae</hi> 1566</item>
+               <pb n="2" facs="tcp:175659:5"/>
+               <item>17 Beroaldi (Philippi) Commentar in Aſinum Aureum Appuleii</item>
+               <item>18 Boethii Hiſtoria cotorum Lib. 19 in 1 vol. <hi>Pariſuis</hi> 1582</item>
+               <item>19 Biblia Hieronymi veteris nigrae Literae</item>
+               <item>20 Bartholom (de Claſſeneux) Conſuetudines ducatus Burgundi</item>
+               <item>21 Buchanani Hiſtoria Scotorum. <hi>Edinb.</hi> 1582</item>
+               <item>22 Bellarmini Diſputationes de Controverſia Chriſtian Fidei, 4 vol. <hi>Col</hi> 1615</item>
+               <item>23 — Opuſcula in 2 Tom quae praeter 4 Tom. Controveri 1 vol 1617</item>
+               <item>24 Baronii Annales Eccleſiaſticae in 14 Tom. Compleat. <hi>Col</hi> 1609</item>
+               <item>25 Baptiſtae Villapandi de poſtrema viſione Ezechielis &amp; ap<g ref="char:EOLhyphen"/>paratus vobis &amp; Templi Hieroſolymi in 2 vol. 1604</item>
+               <item>26 Boerii Deciſiones Burdegalenſes &amp; Alti Tractatus <hi>Col.</hi> 1620</item>
+               <item>27 Biblia Latina cum Annotation. Junii &amp; Tremellii.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>28 Cujacii (J. C.) Opera Omnia in 5 Tom. Compleat. <hi>Lugd.</hi> 1606</item>
+               <item>29 Ciceronis Opera Omnia in 2 vol. compleat.</item>
+               <item>30 Capycii Conſultationes Juris <hi>Genev.</hi> 1664</item>
+               <item>31 Corpus Juris Canonici in 3 partes 1 Decret. <hi>Lugd.</hi> 1614</item>
+               <item>32 Chopini de Legibus Municipalibus <hi>Pariſ.</hi> 1600</item>
+               <item>33 Calvini Inſtitutiones Chriſtianae Religionis <hi>Genev.</hi> 1617</item>
+               <item>34 Caeſaris Commentat. Optima Editio. <hi>Pariſ.</hi> 1618</item>
+               <item>35 Caelii Rhodiginii Lectionum Antiquar lib. 3 in 1 vol. <hi>Col.</hi> 1620</item>
+               <item>36 Coſmographiae Univerſalis Lib. ſex a Munſtero</item>
+               <item>37 Codex Fabrianus <hi>Genev.</hi> 1628</item>
+               <item>38 Chriſtinaei Deciſiones practicabiles compleat in 1 vol, <hi>Ant.</hi> 1636</item>
+               <item>39 Coſmographiae Univerſalis lib. 6 in 2 vol. Gilded</item>
+               <item>40 Cuthmanni (Erneſti) Reſponſorum Juris</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>41 Duran Deciſiones Sacrae Rotae Romanae <hi>Lugd</hi> 1688</item>
+               <item>42 Divi (Thomae) Commentaria in Evangelia <hi>Pariſ.</hi> 1540</item>
+               <item>43 Digeſtum vetus. vel de Pandect ſeu Corpus Juris Gloſſatinis compleat in 3 vol. <hi>Lugd.</hi> 1685</item>
+               <item>44 Decretales D Gregorii Papae Novem cum Gloſſis <hi>Lugd</hi> 1618</item>
+               <item>45 Decretu<g ref="char:cmbAbbrStroke">̄</g> Gratiani Emendatu<g ref="char:cmbAbbrStroke">̄</g> cum Gloſſis Gregorii 1 Pont, Maxim. <hi>Lugd.</hi> 1684</item>
+            </list>
+            <pb n="3" facs="tcp:175659:5"/>
+            <list>
+               <head>E. F.</head>
+               <item>46 Farmayi J. C. praxis &amp; Theorica criminales 5 vol compleat 168;</item>
+               <item>47 Fernelii Opera Medicina Univerſa. Dr Hacket compleat. 1586</item>
+               <item>48 Fontanellae Deciſiones in 1 vol. compleat. <hi>Lugd.</hi> 1668</item>
+               <item>49 Fluds Hiſtoria Utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Coſmi Majoris.</item>
+               <item>50 — Metaphyſica, Phyſica, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Technica</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>51 Geſneri Hiſtoria Animalium in 3 vol, compleat. <hi>Francof.</hi> 1603</item>
+               <item>52 Grotius de jure belli &amp; pacis. <hi>Amſt.</hi> 1631</item>
+               <item>53 Gacia (Nicolaus) de Beneficiis Tractat. <hi>Moguntiae</hi> 1614</item>
+               <item>54 Gregorii Syntagma Juris Univerſi &amp; omniu<g ref="char:cmbAbbrStroke">̄</g> Gentiu<g ref="char:cmbAbbrStroke">̄</g>. <hi>Col.</hi> 1623</item>
+               <item>55 Gregorii Nazianzen, Opera compleat. <hi>Baſil.</hi> 1571</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>56 Herodoti Muſarum nominibus inſcripti <hi>Int. valle</hi> 1526</item>
+               <item>57 Hieronymi &amp; Baptiſtae Explanationes in Ezechiel apparatus vobis Hieroſolymi Illuſtrat Imaginibus <hi>Romi</hi> 1596</item>
+               <item>58 Hiſtoria Concilii Tridentini a Petro Swavi 1620</item>
+               <item>59 Hiſtoria Muſulman, <hi>&amp;c.</hi> Turcarum &amp; Monument. 1591</item>
+               <item>60 Hiſtoria Heinſii &amp; Obſidio Bredana Aomis Philippi. 1629</item>
+            </list>
+            <list>
+               <head>J.</head>
+               <item>61 Jovii Elogia virorum Illuſtrium Bellica <hi>Baſil.</hi> 1575</item>
+               <item>62 Juſtiniani Codicis Lib. 12. <hi>Lugd.</hi> 1618</item>
+               <item>63 — Codicis Rubrias nigrâ Literâ</item>
+               <item>64 Jovii Opera omnia ſeu Hiſtoria ſui temporis <hi>Baſil.</hi> 1578</item>
+               <item>65 Juſtiniani Corpus Juris Civilis <hi>Lugd.</hi> 1618</item>
+               <item>66 Infortiatum 50 Librorum Digeſtorum <hi>Lugd.</hi> 1541</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>67 Kempis (Thomas) de Imitatione Chriſti optima <hi>Paris</hi> 1640</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>68 Lazius de Migrationibus aliquot Gentium</item>
+               <item>69 Livii (Titi) Hiſtoria compleat. <hi>Moguntiae</hi> 1518</item>
+               <item>70 Livii Hiſtoria Romana eadem. <hi>Francof.</hi> 1588</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>71 Maſcardus de probationibus in 3 vol. compleat. <hi>Francof.</hi> 1519</item>
+               <item>72 Martialis Epigrammatum Lib. 15. <hi>Lutet.</hi> 1617</item>
+               <pb n="4" facs="tcp:175659:6"/>
+               <item>73 Molinaei Opera. Tom 1, <hi>Lutet.</hi> 1638</item>
+               <item>74 Muſes Welcome to K. <hi>James</hi> of <hi>Britain. Edinb.</hi> 1618</item>
+               <item>75 Mori Opera omnia Latina <hi>Lovanii</hi> 1566</item>
+               <item>76 Melanchthonis Corpus Doctrinae Chriſtianae compleat <hi>Lip.</hi> 1560</item>
+               <item>77 Moſcovit carum Rerum Commentaria, <hi>Baſil.</hi> 1571</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>78 Notitia utriuſque Imperii Orientis Panciroli <hi>Genev.</hi> 1523</item>
+               <item>79 Novus Orbis &amp; Inſularum ve: picius <hi>Baſil,</hi> 1555</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>80 Oldendorpium Progymnaſmata Actionum forenſium <hi>Col.</hi> 1543</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>81 Petri Surdi J. C. Deciſiones. <hi>Francof.</hi> 1610</item>
+               <item>82 — Tractatus de Alimentis. Ibid. 1619</item>
+               <item>83 — Conciliorum ſeu Reſponſ 2 vol. compleat. <hi>Hanov.</hi> 1616</item>
+               <item>84 Pierius in Codicem Juſtiniani <hi>Amſt.</hi> 1645</item>
+               <item>85 Petrarchae Opera omnia quae extant. <hi>Baſil.</hi> 1601</item>
+               <item>86 Pierii Hieroglyphica vel de Sacris Aegyptiorum <hi>Lugd</hi> 1602</item>
+               <item>87 Plinii Hiſtoria Mundi Magna. Ibid. 1553</item>
+            </list>
+            <list>
+               <head>Q. R.</head>
+               <item>88 Reynerii Chronicon Ditmari Bulolceri, Chronol. <hi>Francof.</hi> 1580</item>
+               <item>89 Rothenſal J. C. Synopſis totius Juris feudalis. Ib. 1662</item>
+               <item>90 Rodriquez de Confiſcatione Bonorum, <hi>&amp;c. Lugd.</hi> 1663</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>91 Scriptores Hiſtoriae Eccleſiaſticae Graeci, <hi>viz.</hi> Euſe<g ref="char:EOLhyphen"/>bius Theodorus &amp; Lone in 1 vol. <hi>Col.</hi> 1612</item>
+               <item>92 Sigiſmundi Scacciae J. C. de commerciis &amp; Cambio, Ibid.</item>
+               <item>93 Sanchez de Sancto Sacramento Matrimonii. <hi>Ant.</hi> 1620</item>
+               <item>94 Stracchae de Mercatura Deciſiones. <hi>Lugd.</hi> 1621</item>
+               <item>95 Sleidanus de ſtatu Religionis &amp; Reipublicae Lar. 5. 1555</item>
+               <item>96 Senecae (L. A. &amp; M. A.) Opera omnia quae extant. <hi>Baſil.</hi> 1573</item>
+               <item>97 Sigiſm, Scacciae de judiciis Cauſar. Civil &amp; Crimin <hi>Francof.</hi> 1669</item>
+               <item>98 Senecae (L. A. &amp; M. A.) Opera compleat. <hi>Pariſ.</hi> 1613</item>
+               <item>99 Sanchez de Matrimonio compleat. <hi>Lugd.</hi> 1621</item>
+               <item>100 Singularia Doctorum in Jure Excellentium <hi>Francof.</hi> 1564</item>
+               <item>102 Saluſtii Opera. Notis variorum. <hi>Baſil.</hi> 1564</item>
+               <pb n="5" facs="tcp:175659:6"/>
+               <item>102 Stephanus Juris Civilis 6 &amp; novum vol. <hi>Col.</hi> 1612</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>103 Thuani Hiſtoria ſui temporis ab anno 1543 ad 1607 <hi>Gen</hi> 1620</item>
+               <item>104 Theatrum vitae humanae <hi>Pariſ</hi> 1562</item>
+               <item>105 Theſaurus juris Executivi, Eccleſiaſt. Crimin &amp; Liv <hi>Fran</hi> 1606</item>
+               <item>106 Taciti (Cornelii) Opera compleat <hi>Antwerp</hi> 1589</item>
+               <item>107 Tit<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>queilus de <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oenis <hi>Lugd.</hi> 1559</item>
+               <item>108 Theatrum Orbis Terrarum. <hi>Large with Mapps. Ant.</hi> 1570</item>
+               <item>109 Tolleti Commentar. in Evarg. <hi>Col.</hi> 1611</item>
+               <item>110 Tractatus de Generi Simonia Mentali &amp; Reali vera. 1599</item>
+               <item>111 Tertull. Opera &amp; Arnobii quotquot a Lau. de la Bar. <hi>Par.</hi> 1580</item>
+            </list>
+            <list>
+               <head>V. W.</head>
+               <item>112 Virgilii Opera Compleat Editio optima <hi>Paris.</hi> 1641</item>
+               <item>113 2 Volumen Locupletiſſimum, <hi>viz</hi> Lod Juſtinian Authentic. &amp; Inſtitutio Imperialium. <hi>Lugd</hi> 1585</item>
+               <item>114 Weſſenbecci J. C. Opus Reſponſorum Juris 2 vol. 1633</item>
+               <item>115 Volumen Imperatoris Juſtiniani <hi>&amp;c.</hi> nigra Litera <hi>Lugd.</hi> 1540</item>
+               <item>116 2 Virgilii Maro. Opera cum Comment in Georg &amp; Aeneid. <hi>Baſil.</hi>
+               </item>
+               <item>117 Walrici Zaſii Reſponſorum Juris <hi>Ibid.</hi> 1538</item>
+            </list>
+            <list>
+               <head>X. <hi>Z.</hi>
+               </head>
+               <item>118 Zanchii Queſtiones Medico-Legales, <hi>&amp;c. Amſt.</hi> 1651</item>
+            </list>
+            <div type="part">
+               <head>Latini Libri Quarto &amp; Octavo.</head>
+               <list>
+                  <head>A.</head>
+                  <item>1 ARumei J C. Comment. Juridico-Hiſtorico-Politicus, <hi>&amp;c.</hi> 1630</item>
+                  <item>2 Altare Damaſcenum compleat. 1623</item>
+                  <item>3 Alciati omnia Emblemata cum comment. quibuſdam, <hi>Par.</hi> 1618</item>
+                  <item>4 Azonis Brocardica ſive Geneoghicla juris <hi>Baſil.</hi> 156<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+               </list>
+               <list>
+                  <head>B.</head>
+                  <item>5 Barclaii Apologia Theolog. verae Chriſtianae Carol. ſecundo Brit.</item>
+                  <item>6 Baſilica Chymica, <hi>Old in Parchment,</hi> Oſwaldi Crollii</item>
+                  <item>7 Jo. Buſſiers Hiſtoria Francica pars tertia. <hi>Lugd</hi> 1661</item>
+               </list>
+               <pb n="6" facs="tcp:175659:7"/>
+               <list>
+                  <head>C.</head>
+                  <item>8 Cujaci J.C. Recitationes in 2 &amp; 4 Decretalium. 1595</item>
+                  <item>9 Comment. de praecipuis divinationu<g ref="char:cmbAbbrStroke">̄</g> generibus a D. Caſpato 1591</item>
+                  <item>10 Coraſii praxis Beneficiorum vel juris pontifici. <hi>Paris</hi> 1627</item>
+                  <item>11 —his Miſcellanea juris Civilis. <hi>Col.</hi> 1570</item>
+                  <item>12 Curtii J. C. ΕΙΚΑΣΤΩΝ <hi>Col.</hi> 1554</item>
+               </list>
+               <list>
+                  <head>D</head>
+                  <item>13 Deciſiones Rotae Mover. Antiquâ veterinigra litera Graeco Latina</item>
+               </list>
+               <list>
+                  <head>E. F.</head>
+                  <item>14 Fachinei, J. C. Controverſiar. juris lib. 13. in 2 vol, <hi>Col.</hi> 1626</item>
+                  <item>15 Freroti J. C. Synopſis juris Canonici <hi>Par.</hi> 1603</item>
+               </list>
+               <list>
+                  <head>G.</head>
+                  <item>16 Gaill. practicarum obſervationum &amp; de publica pace, <hi>Col.</hi> 1634</item>
+               </list>
+               <list>
+                  <head>H.</head>
+                  <item>17 Harveus de Generatione Animalium. Col. 1634</item>
+                  <item>18 Heringii Tractatus Molendinus &amp; eorum in jure <hi>Lugd.</hi> 1663</item>
+               </list>
+               <list>
+                  <head>I.</head>
+                  <item>19 Juvenalis Satyr 16. &amp; Perſii cum not. Jo. Britanici, <hi>Lutet.</hi> 1613</item>
+                  <item>20 Juſtiniani Codex Inſtitution. <hi>Lugd.</hi> 1551</item>
+                  <item>21 —Ibidem Lod. lib. Septimus, Solus</item>
+               </list>
+               <list>
+                  <head>K. L.</head>
+                  <item>22 Leſlei Hiſtoria. <hi>Romae</hi> 1578</item>
+                  <item>23 — a Lindout Introductio in Phyſica<g ref="char:cmbAbbrStroke">̄</g> judiciaria<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Hamb.</hi> 1597</item>
+                  <item>24 Liber de Imperandi Authorit. &amp; Chriſtian. Obedientia <hi>Lond</hi> 1593</item>
+                  <item>25 Litters Societatis Jeſu 1602. &amp; 1603. <hi>Mogunt</hi> 1607</item>
+               </list>
+               <list>
+                  <head>M.</head>
+                  <item>26 Marianae Hiſtoria de rebus Hiſpaniae lib. 30. <hi>Mogunt</hi> 1605</item>
+                  <item>27 Matthaeus de Criminibus 1644</item>
+                  <item>28 Meſnartius Legio in pontificiarium Gregor noni <hi>Paris</hi> 1555</item>
+                  <item>29 Maſcardi J.C. Concluſiones ad general interpret. Statutoru<g ref="char:cmbAbbrStroke">̄</g> 1609</item>
+                  <item>30 Molinaeus Commentar. ad Edictum Hen. ſecundi contra parvas datas &amp; Abuſ. Paparum, in Parchment.</item>
+               </list>
+               <list>
+                  <head>N. O. P.</head>
+                  <item>31 Papini Statii Thebaidos &amp; Sylvarum La.</item>
+                  <item>32 Praxis rerum civilium Autore Damhaudrio 1567</item>
+                  <pb n="7" facs="tcp:175659:7"/>
+                  <item>33 Plutarchi vitae variorum Scriptorum 3 vol.</item>
+                  <item>34 De Paſſeribus (Nic.) conciliatio cunctarum Legum <hi>Lugd.</hi> 1618</item>
+                  <item>35 Polidor (Virgil) de rerum Inventoribus compleat Ibid. 1546</item>
+                  <item>36 Puffendorfii de Officio hominis juxta lege<g ref="char:cmbAbbrStroke">̄</g> naturale<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Lond.</hi> 1673</item>
+                  <item>37 Plauti Comediae 1613</item>
+               </list>
+               <list>
+                  <head>Q. R.</head>
+                  <item>38 Ragwalli de Parnaſſo Centuriae Impenſis <hi>Venet.</hi> 1644</item>
+               </list>
+               <list>
+                  <head>S.</head>
+                  <item>39 Swanmanni Opera Rerum Cameralium <hi>Tubin.</hi> 1649</item>
+               </list>
+               <list>
+                  <head>T. V.</head>
+                  <item>40 2 Virgilii Maro. Opera cum notis, <hi>Old.</hi> 1623</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books in Folio Graece &amp; contra Latine.</head>
+               <list>
+                  <item>1 ARchimedis Opera omnia quae extant <hi>Pariſ.</hi> 1615</item>
+                  <item>2 Alexandri (Clementis) Opera omnia <hi>Lugd.</hi> 1616</item>
+                  <item>3 2 Alexandrini (Appiani) Romanarum Hiſtoriar. whereof one has <hi>Arrianus</hi> Hiſtory. <hi>Lutet.</hi> 1551</item>
+                  <item>4 Ariſtotelis Opera Omnia pure Graece, <hi>Baſil.</hi> 1550</item>
+                  <item>5 Bazilii Opera Omnia, in 2 large Volumns Graeco Lat. <hi>Par.</hi> 1618</item>
+                  <item>6 Beza Novum Teſtamentum Graec. Lat. 1598</item>
+                  <item>7 Chriſoſtomi Opera Omnia in 8 great vol fol. pure Graec. Lat. 1613</item>
+                  <item>8 Diodori Siculi Bibliothec. Hiſt. large Folio compl. Graec. Lat. 1604</item>
+                  <item>9 Demoſthenis Aeſchinis princ. Graec. Orator. large fol. <hi>Francof.</hi> 1604</item>
+                  <item>10 Galeni Opera in 3 large vol. pure Graec. <hi>BAſil.</hi> 1538</item>
+                  <item>11 Gregorii Nazianzen pure Graec. compleat folio</item>
+                  <item>12 Herodoti Hiſtoriarum Lib. 9. <hi>Steph.</hi> 1592</item>
+                  <item>13 Juſtmiani Inſtitutiones pure Graec. 1558</item>
+                  <item>14 Joſephi Antiquitatum Judaicarum Graec. Lat. 1611</item>
+                  <item>15 Lemni Opera quae exfant Graec Lat. <hi>Par.</hi> 1608</item>
+                  <item>16 Poetae Graeci veteres omnia quae extant 2 vol. fol. <hi>Aureliae</hi> 1606</item>
+                  <item>17 —Idem Poetae veteres notae Graec. compleat Parchment</item>
+                  <pb n="8" facs="tcp:175659:8"/>
+                  <item>18 Plutarchi Philoſoph. &amp; Hiſtoric principiis Graec va<g ref="char:EOLhyphen"/>ria Scripta vel liber de Morali. <hi>Baſil</hi> 1574</item>
+                  <item>19 Vitae Graec &amp; Romanorum pure Graec. <hi>Venet.</hi> 1519</item>
+                  <item>20 Platonis Opera omnia quae extant in Graec. Lat. lar. fol. <hi>Steph.</hi> 1578</item>
+                  <item>21 Scapulae Lexicon Graeco Lat. Novum fol. <hi>Baſil</hi> 1580</item>
+                  <item>22 Theucydidis cum utilibus compleat Graec. Ibid. 1540</item>
+                  <item>23 —De bello Peloponeſi Graec. Lat. <hi>Francofurti</hi> 1594</item>
+                  <item>24 Xenophontis Opera Graeco Lat. <hi>Francofurti</hi> 1596</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books in Quarto, Octavo and Duodecimo Graeco-Latin.</head>
+               <list>
+                  <item>1 ADagia vel Proverbia Graec ex Zenob. Swidae, &amp;c. <hi>Ant.</hi> 1612</item>
+                  <item>2 Anibal Theophili Anteceſſor. Inſtitution 4<hi rend="sup">to</hi>. <hi>Par.</hi> 1657</item>
+                  <item>3 Aeſopi Fabulae Graec. Latin. Duodecimo.</item>
+                  <item>4 Authenticorum Juſtinian. pars altera. <hi>Lugd.</hi> 1571</item>
+                  <item>5 Dionyſ. Caſſius pure Graec. in Octavo.</item>
+                  <item>6 Euripidis Tragediae 19. Graeco Latin. Octavo. <hi>Heidel.</hi> 1597</item>
+                  <item>7 Epitome Juris civilis Graeco Latin. <hi>Pariſ.</hi> 1540</item>
+                  <item>8 Luciani Opera Tom. 3 &amp; 4. in Octavo <hi>Baſil.</hi> 1563</item>
+                  <item>9 2 Plutarchi vita Paralelarum Tom. 2 alone.</item>
+                  <item>10 Poetae quidam collecti in Parchment. <hi>Pariſ</hi> 1553</item>
+                  <item>11 Rami Grammatica Graeca <hi>Francof.</hi> 1586</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Books in Folio.</head>
+               <list>
+                  <item>1 HOly Bible of a large black Dutch Letter large Fol. <hi>Lond</hi> 1611</item>
+                  <item>2 Bakers Chronicle of the Kings of <hi>England.</hi> Ibid. 1643</item>
+                  <item>3 Brouns Vulgar Errors Ibid. 1650</item>
+                  <item>4 New Engliſh <hi>Atlas,</hi> or Geographick Deſcription of the World 1 and 2 Volumns only. Ibid. 1636</item>
+                  <item>5 Barclays Hiſtory Argenis, a Romance, Ibid. 1625</item>
+                  <pb n="9" facs="tcp:175659:8"/>
+                  <item>6 Boccanus Novels, Tales, or a Model of Mirth, <hi>Lond.</hi> 1625</item>
+                  <item>7 Calvins Inſtitutions of Chriſtian Religion Ibid. 1634</item>
+                  <item>8 Collection of the Hiſtory of England, by S. D. Ibid. 1626</item>
+                  <item>9 Hiſtory of England by Martin from Long. to Hen. 8. 1628</item>
+                  <item>10 Hiſtory of Meuris 7 by Lo. Verulam <hi>Lond.</hi> 1629</item>
+                  <item>11 Commonwealth of Neana Ibid. 1658</item>
+                  <item>12 Cardinal Perons Reply to the King of Britain. Ibid. 1630</item>
+                  <item>13 Cowleys Works Poems Ibid. 1672</item>
+                  <item>14 Don's Sermons compleat Ibid. 1640</item>
+                  <item>15 Dubartas Divine Weeks and Works by Silveſter. Ibid. 1633</item>
+                  <item>16 Evelyns Diſcourſe of Forreſt Trees with Pomona Ibid. 1670</item>
+                  <item>17 Fuller's Hiſtory of the Holy Wars <hi>Cambridge</hi> 1651</item>
+                  <item>18 German Dyet, or Ballance of Europe, by Howel <hi>Lond.</hi> 1653</item>
+                  <item>19 General Hiſtory of Venice by Fowgaſſes Ibid. 1612</item>
+                  <item>20 General Hiſtory of Spain by Lewis d'Mayern Ibid. 1612</item>
+                  <item>21 Humes Hiſt. of the Houſes of Dowglas and Angus <hi>Edinb</hi> 1644,</item>
+                  <item>22 Hookers Eccleſiaſtical Policy <hi>Lond,</hi> 1617</item>
+                  <item>23 Halls Works compleat Divinity in large Folio Ibid. 1625</item>
+                  <item>24 Hiſtory of the Councel of Trent, by P, Polano Ibid. 1620</item>
+                  <item>25 Jewels (Biſhop) Works of Controverſy againſt Papiſts Ib. 1611</item>
+                  <item>26 Light of Navigation with many Maps long Folio <hi>Amſt</hi> 1620</item>
+                  <item>27 Lex Mercatoria, or Law Merchant by Malynes <hi>Lond.</hi> 1636</item>
+                  <item>28 Laws and Acts of Parliament by 6 K. James &amp;c. <hi>Edinb</hi> 1597</item>
+                  <item>29 —Idem in Black Letters. 1566</item>
+                  <item>30 Laws and Acts of Parliament of K. Ch. 2. bound alone <hi>Ed.</hi> 1661</item>
+                  <item>31 Mores Philoſophical Writings collected <hi>Lond.</hi> 1662</item>
+                  <item>32 Orlando Furioſo in Engliſh, Verſe, by Harington 1607</item>
+                  <item>33 2 Poly-Albion concerning Britain with Mapps, by Drayton Eſq;</item>
+                  <item>34 Remiſh Tranſlation of the Vulgar Latin Bible <hi>Lond.</hi> 1601</item>
+                  <item>35 Ruſhworth Hiſt. Collect. 1 vol. from 1618. to 1629 Ibid. 1659</item>
+                  <item>36 Speeds Hiſt of Great Brit. under Saxons, Danes, <hi>&amp;c.</hi> Ibid. 1632</item>
+                  <item>37 Sandies Paraphraſe on the Divine Poems, Ibid. 1638</item>
+                  <item>38 Spotſwoods Hiſt. of the Church of Scotland Ibid. 1655</item>
+                  <item>39 Virgil Maro's Works done in Engliſh by Jo. Ogilvie and adorn'd with Sculptures, a large Folio <hi>Lond.</hi> 1654</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:175659:9"/>
+               <head>Engliſh Law Books in Folio.</head>
+               <list>
+                  <item>1 COoks Reports compleat in large Folio <hi>Lond.</hi> 1659</item>
+                  <item>2 Collections of all the Statutes now in force from the beginning of Magna Charta to K. <hi>James</hi> the ſixth, 2 great Fol. Ib. 1594</item>
+                  <item>3 Craig de Feudis in writ Bound.</item>
+                  <item>4 Daltons Office and Authority of a Sheriff <hi>Lond.</hi> 1623</item>
+                  <item>5 Engliſh Acts of Parliament in K. Charles time 2 vol Ibid. 1670</item>
+                  <item>6 Ephemeris Parliamentaria, or a Regiſter of the Tranſ<g ref="char:EOLhyphen"/>actions in Parliament in 4 year of King Charles. Ibid. 1654</item>
+                  <item>7 Inſtitutes of the Laws of <hi>Englands.</hi> or a Commen<g ref="char:EOLhyphen"/>tary upon Littleton, in 3 vol. Ibid. 1639</item>
+                  <item>8 Manby's continuation of Pultons Collections of all Statutes in England, in a very large Folio. Ibid. 1670</item>
+                  <item>9 Regiam Majeſtatem, or the Old Laws and Conſti<g ref="char:EOLhyphen"/>tions of Scotland Collected. <hi>Edin.</hi> 1609</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Law Books in Quarto and Octavo.</head>
+               <list>
+                  <item>1 ATturneys Academy, <hi>viz.</hi> Proceedings of all His Majeſties Courts at Weſtminſter, by Tho. Powel. <hi>Lond.</hi> 1647</item>
+                  <item>2 Special and ſelect Law Caſes collected in 1 vol. 4<hi rend="sup">to</hi>. Ibid. 1641</item>
+                  <item>3 Expoſition of all the Law Terms Ibid. 1671</item>
+                  <item>4 Perkins Book of Engliſh Laws Ibid. 1658</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Books in Quarto, Octavo and Duodecimo.</head>
+               <list>
+                  <item>1 AGrippa of occult Philoſophy 4<hi rend="sup">to</hi>.</item>
+                  <item>2 Baxters Saints Everlaſting Reſt. <hi>Lond.</hi> 1662</item>
+                  <item>3 French Academy by Primawday Ibid. 1589</item>
+                  <item>4 Hiſt. of Independency with Obſerv. by Thy. Theod. Verax 1648</item>
+                  <pb n="11" facs="tcp:175659:9"/>
+                  <item>5 Hiſtory of the Reformation of the Church of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> by Jo Knox. compleat <hi>Edinb. Lond.</hi> 1644</item>
+                  <item>6 Joyful News out of the New found World Ibid. 1596</item>
+                  <item>7 Melius Inquirendum againſt the Non-conformiſts 1678</item>
+                  <item>8 new Natura brevium, or Judge Fits-Herberts cor<g ref="char:EOLhyphen"/>rected, with a Table. <hi>Lond.</hi> 1677</item>
+                  <item>9 Littletons Tenures in Engliſh 8vo. Ibid. 1600</item>
+                  <item>10 Practique Theories, Votive, Supplications &amp;c. 8vo</item>
+                  <item>11 Review of Hiſtory of Indulgence 8vo. <hi>Lond.</hi> 1681</item>
+                  <item>12 Rome exactly deſcribed under Pope Alex. 7. in 12. Ibid. 1664</item>
+                  <item>13 Religio Stoici or Religion of the Virtuoſi 1663</item>
+                  <item>14 Sinclairs Hydroſtatical Experiments <hi>Edinb.</hi> 1683</item>
+                  <item>15 Wars of the Jews, Joſephus Hiſtory 8vo. <hi>Lond.</hi> 1652</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>French Books in Folio.</head>
+               <list>
+                  <item>1 LA Sainte Bible Interprete Diodati 1644</item>
+                  <item>2 La Bible Reviſta por Cipriano <hi>Amſt.</hi> 1602</item>
+                  <item>3 Atlas de Gerard Mercator Ibid. 1630</item>
+                  <item>4 Abrege des Annales Eccleſ. de Baron. Tom. dixieſm.</item>
+                  <item>5 Arreſts de Lovet. <hi>Irap. a Paris</hi> 1633</item>
+                  <item>6 Bod in Believers de Republicque <hi>a Paris</hi> 1677</item>
+                  <item>7 Caſes Collect &amp; Report par Francis Moor Chevalier <hi>Lond.</hi> 1663</item>
+                  <item>8 Cappvys de Republique de Monde. <hi>a Paris</hi> 1598</item>
+                  <item>9 Calvine Expoſe le Livre des Pſeaumes 1558</item>
+                  <item>10 Coke les Reports durant Regiment Eliz 2 vol compleat, <hi>Lon</hi> 1619</item>
+                  <item>11 Corandas Reſponſes du Droict Francois, <hi>a Paris</hi> 1622</item>
+                  <item>12 Hiſtoir de Fl. Joſeph. Antiq. Judaic. <hi>a Paris</hi> 1609</item>
+                  <item>13 Hiſtoir des Martyrs perſecutez &amp;c. 1608</item>
+                  <item>14 —Idem de Martyrs perſecut. la fol. <hi>a Genevis</hi> 1619</item>
+                  <item>15 Hiſtoir Univerſal Denſiens Daubique <hi>Amſt.</hi> 1626</item>
+                  <item>16 Hiſtoir d'Angliter de Scoſs, &amp; d'Ireland <hi>a Paris</hi> 1634</item>
+                  <item>17 Hiſtoir General d'Eſpagne par Turquell in 2 vol. 1608</item>
+                  <item>18 Inventar General de Hiſtoir d'France par Jean de Serres <hi>Pa</hi> 1618</item>
+                  <item>19 Ordinances Loix Stats &amp; Edicts Rojeux par Rebuffi. 1554</item>
+                  <pb n="12" facs="tcp:175659:10"/>
+                  <item>20 Opere de Card Bentivoglio <hi>a Paris</hi> 1645</item>
+                  <item>21 Aewres de Mr. Peleus Ibid. 1638</item>
+                  <item>22 Aewres Sir Dubartas Ibid. 1611</item>
+                  <item>23 Aewres de Logſeau Ibid. 1660</item>
+                  <item>24 Plutarque</item>
+                  <item>25 Plutarque le Aewers Morals <hi>a Genev.</hi> 1604</item>
+                  <item>26 Plutarque le vie des Hommes Illuſtres Ge. &amp; Rom. Ibid. 1610</item>
+                  <item>27 Pline Natural Hiſtoire du une <hi>a Paris</hi> 1608</item>
+                  <item>28 2 Summaire d'L'Hiſtoir d'France d'Nicol Vignie 1579</item>
+                  <item>29 Tite Live les Decades in 2 vol. fol. <hi>a Paris</hi> 1617</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>French Books in Quarto.</head>
+               <list>
+                  <item>1 ARreſts de Burgoigne par Bowot in 2 vol. <hi>Genev.</hi> 1623</item>
+                  <item>2 2 Arreſts de France par Paponon 1648. <hi>a Paris</hi> 1607</item>
+                  <item>3 Acts Authentick d'Egcleſ. Reform. par Blondel 1655</item>
+                  <item>4 Arreſts du Parliament du Paris par Lovet <hi>a Paris</hi> 1609</item>
+                  <item>5 Arreſts d'Divers Autheurs par Lovet. Ibid. 1665</item>
+                  <item>6 Arreſts d'Parliament Paris par la Veſt Ibid. 1612</item>
+                  <item>7 Arreſts de Maynard 1 Tom. Ibid. 1604</item>
+                  <item>8 Couſtoume d'Borgoigne par 1 Buvot. <hi>a Genev.</hi> 1632</item>
+                  <item>9 Dam Houdere practic Judiciair. es Cauſ. Crimin. Anvers 1640</item>
+                  <item>10 Hiſtorie des Eſtates Empries du Monde <hi>a Paris</hi> 1619</item>
+                  <item>11 Aewers des Droicts d'La Curone d'France par Bacquet Ib. 1630</item>
+                  <item>12 Recuell d'Reiglemens notables General &amp; particu<g ref="char:EOLhyphen"/>lar par Cheun. <hi>Lyon</hi> 1630</item>
+                  <item>13 Recuel d'Roys de France Lewis Conon &amp; Maiſon par du Tillet B. Maux. <hi>Paris</hi> 1607</item>
+                  <item>14 La Roche des Parliamens de France <hi>a Paris</hi> 1621</item>
+                  <item>15 Secrets d'La Uraye Agriculture par de Belle Forreſt. 1572</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:175659:10"/>
+               <head>French Books in Octavo and Duodecimo.</head>
+               <list>
+                  <item>1 ABregee Hiſtoire toules Roys de France; An<g ref="char:EOLhyphen"/>gliter &amp; Eſcoſſes par Chambri Eſcoſes. <hi>a Paris</hi> 1579</item>
+                  <item>2 L'Art des Notaires <hi>a Lyon</hi> 1570</item>
+                  <item>3 Aphoriſmes du Droict <hi>a Paris</hi> 1649</item>
+                  <item>4 L'Bible Francois.</item>
+                  <item>5 Cuſtoumes d'Berzee a Burgis 1629</item>
+                  <item>6 Criſpine</item>
+                  <item>7 Eſtate de la France <hi>a Paris</hi> 1650</item>
+                  <item>8 Examen des Eſprites <hi>a Lyon</hi> 1597</item>
+                  <item>9 Epiſtrees do crees d'Givevare <hi>a Paris</hi> 15<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7</item>
+                  <item>10 Hiſtoire de France 2 Tom. 8vo. <hi>Col.</hi> 1613</item>
+                  <item>11 Horloge des Princes <hi>a Paris</hi> 1565</item>
+                  <item>12 Kitchine French Book. <hi>Lond.</hi> 1607</item>
+                  <item>13 Legurdondes de practique 1541</item>
+                  <item>14 Letters ſur les Affairs du Temps, unbound. <hi>Amſt,</hi> 1672</item>
+                  <item>15 Menipe d'la Vertu du Catholicon d'Eſpagne 1612</item>
+                  <item>16 Aewers de Grimandet <hi>a Paris</hi> 1623</item>
+                  <item>17 Aeweres Poetiques de Saluſte. <hi>a Lyon</hi> 1606</item>
+                  <item>18 Palidoyez d'Loys Servien <hi>a Paris</hi> 1603</item>
+                  <item>19 Practicien Francois Ibid. 1647</item>
+                  <item>20 Plaidoyez de Simon Marion. Ibid. 1629</item>
+                  <item>21 Paſſiones de Lanne par des Cartes Ibid 1650</item>
+                  <item>22 Preparatione a jeuſne &amp; Repentance. 120. 1670</item>
+                  <item>23 Secretes de Aquances d'France.</item>
+                  <item>24 Sale Introduction a la vie devote <hi>a Doway</hi> 1616</item>
+                  <item>25 Threſor d'noveaw Stillee d'la Cancellarie d'France <hi>a Paris</hi> 1608</item>
+                  <item>26 Threſor des Inſtructions de Finances <hi>a Paris</hi> 1599</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Italian Books in Folio.</head>
+               <list>
+                  <item>1 LI Adone poema dell Cavalier Marino. <hi>Parigi</hi> 1623</item>
+                  <item>2 Li Biblia Tranſlati da Diodati <hi>Genevae</hi> 1607</item>
+                  <item>3 Luis d'Granada Introduct. de Symbol. d'la fe Barcellana 1614</item>
+                  <item>4 — his Doctrina Chriſtiana <hi>Valladolid</hi> 1615</item>
+                  <pb n="14" facs="tcp:175659:11"/>
+                  <item>5 Hiſtoria General d'Hiſpania Tom. 2. <hi>Toledo</hi> 1601</item>
+                  <item>6 Hiſtoria del Concilio di Piedro Soave in Londra 1619</item>
+                  <item>7 Hiſtoria Imperially Ceſarea, &amp;c. <hi>Anver.</hi> 1561</item>
+                  <item>8 Las obras de Givevara 1545</item>
+                  <item>9 Plutarchi virae Hiſpana Linguâ 1551</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Italian Books in Quar to and Duodecimo.</head>
+               <list>
+                  <item>1 BAndelli delle Novelle a 2d. vol. <hi>Millano</hi> 1560</item>
+                  <item>2 Battiſta pigna Romanzi <hi>Lenegiae</hi> 1554</item>
+                  <item>3 Cavaliri di Ferrara. <hi>Venet.</hi> 1567</item>
+                  <item>4 Dictionar. Italian Francois &amp; Franc. Italian. <hi>Francof.</hi> 1640</item>
+                  <item>5 Dialogo Sopra la Onorabile Compagnia delle Leſine. 1604</item>
+                  <item>6 Hiſtoria Particulara de la Ceſe paſſate de Repub. <hi>Venetia</hi> 1624</item>
+                  <item>7 Hiſtorie varie de Nicolo Leonico 8vo. Parchment.</item>
+                  <item>8 Letter familiar di Groto Cieco <hi>Venetia</hi> 1606</item>
+                  <item>9 Machavelli Opere in 5 parti compleat 1550</item>
+                  <item>10 — his Diſcorſi Sopra 1 Decad de Tito Livio <hi>Palernio</hi> 1584</item>
+                  <item>11 Platina delle vite de Pontifici <hi>Venet.</hi> 1563</item>
+                  <item>12 Rime del Tarquato Taſſo <hi>Venet.</hi> 1650</item>
+                  <item>13 Thucidides Italices <hi>Venet.</hi> 1550</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Germane Books.</head>
+               <list>
+                  <item>1 BIble Tranſlat. of M. Luther in Germ Language. <hi>Luneb.</hi> 1635</item>
+                  <item>2 Novum Teſtamentum Germanicum <hi>Dordrecht</hi> 1608</item>
+                  <item>3 B. Melchioris Klingon Seckſiſih Landrecht Mit<g ref="char:EOLhyphen"/>text &amp; Gloſs Main Richerge ordinunge Gebracht. <hi>Leipſ.</hi> 1572</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books by themſelves in Engliſh Folio.</head>
+               <list>
+                  <item>1 TWo Books of Acts of Parliament in folio old Edit. <hi>Ed.</hi> 1633</item>
+                  <item>2 Acts of Parliament compleat, new Edition fol. Ibid. 1681</item>
+                  <item>3 Book of Common-Prayer for Ch. Scotland Ibid 1637</item>
+                  <item>4 Blunts Law Dictonary <hi>Savoy</hi> 1670</item>
+                  <item>5 Burnets Memoirs of the Houſe of Hamilton <hi>Lond</hi> 1677</item>
+                  <item>6 Engliſh Annotations on the Bible 1ſt. vol. alone Ibid. 1651</item>
+                  <item>7 General Catalog of Books from 1666 to 1674.</item>
+                  <item>8 Inſtitution of the Law of England 1ſt. part alone in 4 to Engliſh</item>
+                  <item>9 Minſhens Cuide unto Tongues. <hi>Lond</hi> 1627</item>
+                  <pb n="15" facs="tcp:175659:11"/>
+                  <item>10 CLoud of Witneſſes, or Hiſtory of Waldenſes <hi>Lond</hi> 1624</item>
+                  <item>11 Engliſh Expoſition of their Law Terms 1598</item>
+                  <item>12 Quakeriſme Canvaſſed. 1675</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Engliſh Books in Octavo.</head>
+               <list>
+                  <item>1 BOok of the Cuſtomes of Scotland. <hi>Edinb.</hi> 1671</item>
+                  <item>2 Differences of the times in 3 Dialogues. <hi>Lond.</hi> 1679</item>
+                  <item>3 Eſtate of the Empire of Germany. Ibid. 1676</item>
+                  <item>4 Glanvile of Witchcraft Ibid. 1668</item>
+                  <item>5 Hobbs Hiſtory of the Civil Wars of <hi>England,</hi> Ibid. 1679</item>
+                  <item>6 Jure Maritime &amp; Navali. Ibid. 1676</item>
+                  <item>7 Mckenzies Obſervat. on Act of Parliament 1621. <hi>Edinb.</hi> 1675</item>
+                  <item>8 Magna Charta with Obſervations thereon. <hi>Lond.</hi> 1680</item>
+                  <item>9 Reformed Biſhop in 19, Articles, &amp;c. Ibid. 1680</item>
+                  <item>10 Vincents Catechiſme in 8vo. <hi>Edinb.</hi> 1674</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Latine Books by themſelves Folio.</head>
+               <list>
+                  <item>1 CArd Tuſh Practic: Concluſion compleat 4 vol. <hi>Lugd.</hi> 1634</item>
+                  <item>2 Chriſtineus in Leges Municipal Mechilinienſes. <hi>Ant.</hi> 1642</item>
+                  <item>3 Corpus Juris Civilis Not: Gothofredi in 2 vol. <hi>Lutheriae</hi> 1628</item>
+                  <item>4 Claris Opera omnia Sententiarum <hi>Genev.</hi> 1625</item>
+                  <item>5 Infortiatum ſeu Pandect. Juris Civilis Tom. 2. <hi>Lugd.</hi> 1618</item>
+                  <item>6 Klochii J. C. Tractatus de Aerario <hi>Nurimburge</hi> 1671</item>
+                  <item>7 Lipſius de Cruce Libri tres <hi>Antwerp.</hi> 1593</item>
+                  <item>8 Merlinus de Legittima. In Engliſh <hi>Genev,</hi> 1664</item>
+                  <item>9 Philipi de Franchis de Appellationibus <hi>Francof.</hi> 1575</item>
+                  <item>10 Stephanus Daoyz Juris Civilis &amp; Pontificis from 4 &amp; 7. in 2 vol. 1610</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Latine Books in Quarto,</head>
+               <list>
+                  <item>1 BAchovius J. C. in Inſtitutiones Juris 1666</item>
+                  <item>2 Brunemannus de Proceſſu</item>
+                  <item>3 Codicis Liber Tom. 2d. <hi>Lugd.</hi> 1651</item>
+                  <item>4 Popolla de Servitutibus Ibid. 1666</item>
+                  <item>5 Derodonis Opera Philoſophica <hi>Genev,</hi> 1668</item>
+                  <item>6 Friſchius Execrationum Juris publici 2 vol. 1649</item>
+                  <item>7 Gaſſendi Inſtitutio Aſtronomica. <hi>Paris</hi> 1647</item>
+                  <item>8 Groene Wegen de Legibus abrogatis in Hollandia 1644</item>
+                  <pb n="16" facs="tcp:175659:12"/>
+                  <item>9 Gothofredi RegulisJuris Antiqui <hi>Genev.</hi> 1653</item>
+                  <item>10 Homeri Ilias &amp; Odyſſea Graeco Latin. optim. Editio. <hi>Lugd.</hi> 16—</item>
+                  <item>11 Liber Digeſtorum alone</item>
+                  <item>12 Philips Conſiderationes Juridicae 1674</item>
+                  <item>13 Stockmans Deciſions Brabantinae 1670</item>
+                  <item>14 Salmaſius de Primatu Papae <hi>Lugd.</hi> 1675</item>
+                  <item>15 Struvii Syntagma Juris Civilis <hi>Genev.</hi>
+                  </item>
+                  <item>16 Syntagma Juris Feudalis <hi>Genev.</hi> 1659</item>
+                  <item>17 Sophocleoz Tragediae pure Graec. 1666</item>
+                  <item>18 Vinnius in 4 lib. Inſtitution. Imperial. <hi>Amſtel.</hi> 1645</item>
+                  <item>19 Willis de Anima Brutorum <hi>Oxon.</hi> 1672</item>
+                  <item>20 Weems de Craigtoun de Primatu Regis <hi>Edinb.</hi> 1623</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Latine Books in Octavo.</head>
+               <list>
+                  <item>1 ALbericus de jure Belli <hi>Hanov.</hi> 1598</item>
+                  <item>2 Apollinarii Interpret. Pſal. Graec Lat. verſus Heroicus 1596</item>
+                  <item>3 Agrevi de triplici Genere Homicidiorum 1647</item>
+                  <item>4 Aurelii Rerum Judicatarum. 1610</item>
+                  <item>5 Ars Cogitandi <hi>Lugd.</hi> 1682</item>
+                  <item>6 Apulei Metamorphoſeos, &amp;c.</item>
+                  <item>7 Budaei Annotationes in Pandectas 1551</item>
+                  <item>8 Bruni Rudimentorum Rhetoricorum <hi>Aberdoniae</hi> 1666</item>
+                  <item>9 Boetii Conſolationes Philoſophiae <hi>Lugd.</hi> 1671</item>
+                  <item>10 Cauſabon in Hiſtoria Polibii 1610</item>
+                  <item>11 Cornelii Taciti Hiſtoria <hi>Antwerp.</hi> 1574</item>
+                  <item>12 Conſtantini Commentar. in Conſtitution. Regias <hi>Paris</hi> 1549</item>
+                  <item>13 Cujaci Comment. Hottomanni Quaeſtion. 1579</item>
+                  <item>14 Digeſtorum pars Quinta <hi>Pariſiis</hi>
+                  </item>
+                  <item>15 Eugalenus de morbo Scorbuto 1658</item>
+                  <item>16 Enchiridion Juris Galliae <hi>Lidge</hi> 1560</item>
+                  <item>17 Epitome Hiſtoriae Gallicae 1604</item>
+                  <item>18 Flores Illuſtrium Poetarum 1549</item>
+                  <item>19 Hieronymus de Crimine Laeſae Majeſtatis 1557</item>
+                  <item>20 Horatius Notis Bond <hi>Lugd.</hi> 1670</item>
+                  <item>21 Juſtiniani Inſtitutiones Juris. <hi>Antwerpiae</hi> 1575</item>
+                  <item>22 Lanfranci Practica Judiciaria 1559</item>
+                  <pb n="17" facs="tcp:175659:12"/>
+                  <item>23 Mazzius de Contractibus <hi>Colon.</hi> 1633</item>
+                  <item>24 Mckenzii Idaea Eloquentiae. <hi>Edinb.</hi> 1681</item>
+                  <item>25 Novum Teſtament. Graeco. Latin. Bezae. 1604</item>
+                  <item>26 Pitcairn de Juſtificatione <hi>Roterodami</hi> 1685</item>
+                  <item>27 Petri de Ferrariis Papienſis praxis Aurea <hi>Vignon.</hi> 1594</item>
+                  <item>28 Philippus Decius de Regum Juris 1535</item>
+                  <item>29 Sulpitii Severi Opera notis Hornii. 1665</item>
+                  <item>30 Viglii Commentar. in decem Tit. Juſtiniani 1573</item>
+                  <item>31 Virgilii Opera omnia cum notis variorum. <hi>Lugd.</hi> 1661</item>
+                  <item>32 Voet. de familia Eriſcunda <hi>
+                        <g ref="char:V">Ʋ</g>ltrajecti</hi> 1674</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Latine Books by themſelves in Duodecimo.</head>
+               <list>
+                  <item>1 BBuſſiers Hiſtoria Francica in 3 vol. compleat. <hi>Lugd.</hi> 1661</item>
+                  <item>2 Brachelli Hiſtoriarum noſtri temporis. 1655</item>
+                  <item>3 Bona's Documenta vitae Chriſtianae 1675</item>
+                  <item>4 Chriſtinei de jure Matrimonii. 1651</item>
+                  <item>5 Corvini Definitiones. <hi>Amſt.</hi> 1659</item>
+                  <item>6 Coraſii ſpecimen Juris Eccleſiaſt. Galliae <hi>Paris</hi> 1672</item>
+                  <item>7 Diſſertatio de Univerſitate Diluvii <hi>Genev.</hi> 1667</item>
+                  <item>8 Elementa Juris prudentiae. <hi>Genev.</hi> 1629</item>
+                  <item>9 Grotii Hiſtoria de rebus Belgicis. <hi>Amſtel.</hi> 1658</item>
+                  <item>10 Hottomanni Quaeſtionum Illuſtrium. 1601</item>
+                  <item>11 Lucanus notis Farnabii &amp; Grotii <hi>Amſtel.</hi> 1681</item>
+                  <item>12 Luſini Euphormionis Satiricon. <hi>Leyd.</hi> 1617</item>
+                  <item>13 Pignorius de Servis. <hi>Amstel.</hi> 1674</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books by themſelves in Folio French.</head>
+               <list>
+                  <item>1 COuſtoumes de Normandi. <hi>Berauld.</hi> 1632</item>
+                  <item>2 Droict Francois &amp; Couſtoume de Paris. 1664</item>
+                  <item>3 Jaſquer Dyer Caſes Collect. 1593</item>
+                  <item>4 Ordinance de Lewis 14 Dukoy du France 1677</item>
+                  <item>5 Rejueill d'Divers playdoyers d'Meſſours. <hi>Paris</hi> 1672</item>
+                  <item>6 Voyages de Petro de la valle Tom. 4. <hi>Paris</hi> 1675</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>French Books in Octavo.</head>
+               <list>
+                  <item>1 BOdin de Monomanie des Sorciers. <hi>a Lyon</hi> 1593</item>
+                  <item>2 Bentivoglio's Ruccolta di Letter 1647</item>
+                  <item>3 Boece d'Conſolation de Philoſophie <hi>a Paris</hi> 1578</item>
+                  <pb n="18" facs="tcp:175659:13"/>
+                  <item>4 Boulenger Traict d'Laſplure du ittonde. <hi>Paris</hi> 1648</item>
+                  <item>5 Boccani ſaggi Moralli 1618</item>
+                  <item>6 Couſtoumes d'Compt &amp; Paris poicton 1633</item>
+                  <item>7 Compendio Univerſal de Republica 1602</item>
+                  <item>8 Corrobin Plaidoyez <hi>a Paris</hi> 1610</item>
+                  <item>9 Cauſſin la Cour Saincte Tom. 2. <hi>Roven</hi> 1636</item>
+                  <item>10 Coquel Queſtions ſur le Couſtoums d'France, <hi>Paris</hi> 1634</item>
+                  <item>11 Diallogo de la Dignitat. d'Huomo. 1563</item>
+                  <item>12 Eharondes le Caron Obſervat. du Droict du France.</item>
+                  <item>13 Eſtate de la France. 1650</item>
+                  <item>14 Le Empire de la Kaiſo ſur le Paſſions</item>
+                  <item>15 Hawarte Examen d'Ingenias parala Scientias 1603</item>
+                  <item>16 Aewres politiques &amp; Morals de France. 1621</item>
+                  <item>17 Rochet Juris prudente de Contracts <hi>a Paris</hi> 1628</item>
+               </list>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:175659:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
